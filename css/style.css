@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#body{
+   
+    height: 300px;
+    width:700px;
+    margin:200px;
+    margin-left: 400px;
+    
+}
+h1{
+    text-align: center;
+    margin:100px;
+   
+    font-size: xx-large;
+    background-color: black;
+    color: aliceblue;
+}
+#btn{
+    margin-left: 300px;
+    font-size: x-large;
+}
+
